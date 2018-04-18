@@ -1,0 +1,3 @@
+I STARTED!
+Enter height of window (in cm.): 25
+2
