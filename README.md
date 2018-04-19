@@ -21,4 +21,4 @@ Tests can be found in this repo.
 see:
 - [DataAccessorDatabaseTest.java](Test7/src/test/java/data/DataAccessorDatabaseTest.java)
 - [ControllerTest.java](Test7/src/test/java/logic/ControllerTest.java)
-- [ControllerTest.java](Test7/src/test/java/logic/ControllerTest.java)
+- [MainTest.java](Test7/src/test/java/MainTest.java)
